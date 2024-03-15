@@ -1,0 +1,22 @@
+Início
+    Escreva "Escolha uma opção:"
+    Escreva "1 – Criar um cadastro"
+    Escreva "2 – Excluir um Cadastro"
+    Escreva "3 – Atualizar um Cadastro"
+    Escreva "4 – Listar Cadastros"
+
+    Leia opcao
+
+    
+    Se opcao = 1 Então
+        Escreva "Você selecionou: Criar um cadastro"
+    Senão Se opcao = 2 Então
+        Escreva "Você selecionou: Excluir um Cadastro"
+    Senão Se opcao = 3 Então
+        Escreva "Você selecionou: Atualizar um Cadastro"
+    Senão Se opcao = 4 Então
+        Escreva "Você selecionou: Listar Cadastros"
+    Senão
+        Escreva "Opção inválida!"
+    Fim Se
+Fim
