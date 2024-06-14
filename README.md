@@ -10,7 +10,7 @@ Exercicio 3.10
 P.3.9. Desenvolva um programa que leia um arquivo de texto e armazene cada palavra em um 
 vetor. A seguir, uFlizando o algoritmo de busca sequencial, determina, para cada palavra 
 existente no vetor, o número de ocorrências dessa palavra ao longo do texto. Seu programa 
-deverá ser “inteligente” o suficiente para ignorar caracteres de pontuação do Fpo “,”, “;” , “.” e 
+deverá ser “inteligente” o suficiente para ignorar caracteres de pontuação do tipo “,”, “;” , “.” e 
 “:”. Ou seja, a busca da palavra “adorei”, deve retornar a posição 1 se a string de texto procurado for composta por “ adorei!” . Nesse caso, o seu programa deverá contabilizar os caracteres de 
 pontuação de modo individual, segundo o exemplo seguinte: 
 Exemplo de conteúdo do arquivo de texto: 
